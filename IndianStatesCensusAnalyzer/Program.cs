@@ -1,12 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace IndianStatesCensusAnalyzer
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To the Indian States Census Analyzer Problem");//displaying Welcome message on the master branch.
+            Console.WriteLine("Welcome to Indian States Ccensus Analyzer Problem");
         }
     }
 }
